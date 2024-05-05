@@ -1,3 +1,3 @@
 # portfolio
 
-live  : rgama-portfolio.netlify.app
+live  : https://rgama-portfolio.netlify.app
